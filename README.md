@@ -5,7 +5,7 @@
 
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/bob19942021/PackagesDelivery/tree/main)
 - <b>Java full stack applications</b>
   - [Desktope Scheduling Application ](https://github.com/bob19942021/SchedulingDesktopApplication/tree/main/views)
 
