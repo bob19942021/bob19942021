@@ -9,5 +9,7 @@
   - [Active Directory Lab](https://github.com/bob19942021/ActiveDirectory)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Java full stack applications</b>
+  - [desktope scheduling application ](https://github.com/bob19942021/SchedulingDesktopApplication/tree/main/views)
 
 
