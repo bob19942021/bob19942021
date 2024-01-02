@@ -17,6 +17,8 @@ I am a Web Developer with passion for coding and problem solving. Well-versed in
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/bob19942021/PackagesDelivery/tree/main)
 - <b>Java full stack applications</b>
   - [Desktope Scheduling Application ](https://github.com/bob19942021/SchedulingDesktopApplication/tree/main/views)
+- <b>JavaScript full stack applications</b>
+  - [Travel Tracker](https://github.com/bob19942021/Travel-Tracker)
 ### Skills
 
 <p align="left">
