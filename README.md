@@ -9,7 +9,7 @@ I am a Web Developer with passion for coding and problem solving. Well-versed in
 * 🌍  I'm based in Washington State
 * ✉️  You can contact me at [bob19942021@hotmail.com](mailto:bob19942021@hotmail.com)
 * 🤝  I'm open to collaborating on Projects
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 
 
