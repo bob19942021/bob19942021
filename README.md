@@ -2,8 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 
-<h2>👨‍💻 Projects:</h2>
-
+<h2>👨‍💻My  Projects:</h2>
 
 - <b>Azure/ Cloud</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/bob19942021/Azure-SOC)
