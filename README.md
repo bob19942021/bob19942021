@@ -4,11 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer, Cybersecurity Professional
 -----------------
 
-* 🌍  I'm based in Washington State
-* ✉️  You can contact me at [bob19942021@hotmail.com](mailto:bob19942021@hotmail.com)
-* 🤝  I'm open to collaborating on Projects
-
-
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
@@ -17,6 +12,7 @@ Programmer, Cybersecurity Professional
   - [Desktope Scheduling Application ](https://github.com/bob19942021/SchedulingDesktopApplication/tree/main/views)
 - <b>JavaScript full stack applications</b>
   - [Travel Tracker](https://github.com/bob19942021/Travel-Tracker)
+  -----------------
  
 * 🌍  I'm based in Washington State
 * ✉️  You can contact me at [bob19942021@hotmail.com](mailto:bob19942021@hotmail.com)
