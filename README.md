@@ -6,6 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 -<b> Azure/ Cloud </b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/bob19942021/Azure-SOC)
+- <b>Azure/ Cloud</b>
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/bob19942021/Azure-SOC)
+    
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/bob19942021/PackagesDelivery/tree/main)
 - <b>Java full stack applications</b>
