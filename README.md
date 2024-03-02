@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael Boktour
 =======================================================================================================================================
 
-Full Stack Web Developer
+Programmer, Cybersecurity Professional
 -----------------
 
 I am a Web Developer with passion for coding and problem solving. Well-versed in technology and writing code to create systems that are reliable and user-friendly
