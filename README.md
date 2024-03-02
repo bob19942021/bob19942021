@@ -7,9 +7,9 @@ Programmer, Cybersecurity Professional
 * 🌍  I'm based in Washington State
 * ✉️  You can contact me at [bob19942021@hotmail.com](mailto:bob19942021@hotmail.com)
 * 🤝  I'm open to collaborating on Projects
+
+
 <h2>👨‍💻 Projects:</h2>
-
-
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/bob19942021/PackagesDelivery/tree/main)
@@ -18,10 +18,10 @@ Programmer, Cybersecurity Professional
 - <b>JavaScript full stack applications</b>
   - [Travel Tracker](https://github.com/bob19942021/Travel-Tracker)
  
-  - * 🌍  I'm based in Washington State
+* 🌍  I'm based in Washington State
 * ✉️  You can contact me at [bob19942021@hotmail.com](mailto:bob19942021@hotmail.com)
 * 🤝  I'm open to collaborating on Projects
-<h2>👨‍💻 Projects:</h2>
+
 
 
 ### Skills
