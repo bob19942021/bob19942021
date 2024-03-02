@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - <b>JavaScript full stack applications</b>
   - [Travel Tracker](https://github.com/bob19942021/Travel-Tracker)
   
-  -----------------
+-----------------
  
 * 🌍  I'm based in Washington State
 * ✉️  You can contact me at [bob19942021@hotmail.com](mailto:bob19942021@hotmail.com)
